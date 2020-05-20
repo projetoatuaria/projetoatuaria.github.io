@@ -13,15 +13,18 @@
 <p> 
   Ciências Atuariais 
 </p>
-
+<p>
+  O objetivo desse projeto é disseminar e popularizar a ciência atuarial para a sociedade em geral, especialmente em escolas e empresas,
+empoderando-a de princípios atuariais básicos, de forma que tenham 
+</p>
 <p>
 <b> Coordenador: </b>
 <p>
-- Herick Cidarta
+- HERICK CIDARTA GOMES DE OLIVEIRA 
  </p>
  <b> Coordenador Adjunto: </b>
  <p>
-  Jussie
+ - JUSSIE DOS SANTOS RODRIGUES
   </p>
 </p>
 
@@ -29,13 +32,13 @@
   <b> Participantes do Projeto: </b>
 </p>
 
-- Ádria
-- Geisianny Kelly
-- Jessica Evelin
-- Lucas Iago
-- Micaela Carneiro
-- Olívia
-- Rafaela
+- ADRIA CRISTINA DA MOTA OLIVEIRA
+- GEISIANNY KELLY MONTEIRO DA COSTA
+- JESSICA EVELIN SILVA DAMACENA
+- LUCAS IAGO MEDEIROS ALEXANDRINO
+- MARIA OLIVIA ALMEIDA DO NASCIMENTO
+- MICAELA CARNEIRO DA SILVA
+- RAFAELA MERIELE COELHO SILVA
 
 
 <b> Contribuição:</b>
