@@ -1,0 +1,46 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</title>
+        <link>http://projetoatuaria.github.io/</link>
+        <description>Blog do Projeto: Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 19 May 2020 15:11:18 -0300</lastBuildDate>
+            <atom:link href="http://projetoatuaria.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Ciências Atuariais</title>
+    <link>http://projetoatuaria.github.io/menu_catuarial/</link>
+    <pubDate>Tue, 19 May 2020 15:11:18 -0300</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/menu_catuarial/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Concursos e Vagas</title>
+    <link>http://projetoatuaria.github.io/menu_concursosvagas/</link>
+    <pubDate>Tue, 19 May 2020 15:11:18 -0300</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/menu_concursosvagas/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Participantes</title>
+    <link>http://projetoatuaria.github.io/menu_participantes/</link>
+    <pubDate>Tue, 19 May 2020 15:11:18 -0300</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/menu_participantes/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Programação e Software</title>
+    <link>http://projetoatuaria.github.io/menu_programacao/</link>
+    <pubDate>Tue, 19 May 2020 15:11:18 -0300</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/menu_programacao/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>O que é a Ciência Atuarial ?</title>
+    <link>http://projetoatuaria.github.io/1_cienciaatuarial/</link>
+    <pubDate>Tue, 19 May 2020 15:58:26 &#43;0800</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/1_cienciaatuarial/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/1_CienciaAtuarial/img6.jpg" referrerpolicy="no-referrer">
+            </div>Introdução O que é Ciência Atuarial? A ciência atuarial tem seu início nas primeiras civilizações, nesse período possuíam alguns riscos, como o dos comerciantes da babilônia que se preocupavam com as perdas dos camelos e os pastores hebreus que tinham receio com perda do seu rebanho. Tais riscos precisavam ser mensurados e organizados, para contê-los e não causar as perdas, que naquele período eram perdas relevantes para sobrevivência deles. O pontapé inicial ao surgimento e a utilização dessa ciência, foi nas primícias da teoria do seguro marítimo.]]></description>
+</item></channel>
+</rss>
