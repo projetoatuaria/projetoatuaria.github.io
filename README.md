@@ -19,6 +19,10 @@
 <p>
 - Herick Cidarta
  </p>
+ <b> Coordenador Adjunto: </b>
+ <p>
+  Jussie
+  </p>
 </p>
 
 <p> 
