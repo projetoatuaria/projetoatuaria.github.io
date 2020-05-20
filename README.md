@@ -14,6 +14,9 @@
   Ciências Atuariais 
 </p>
 <p>
+<b> Objetivo: </b>
+<p>
+<p>
   O objetivo desse projeto é disseminar e popularizar a ciência atuarial para a sociedade em geral, especialmente em escolas e empresas,
 empoderando-a de princípios atuariais básicos, de forma que tenham 
 </p>
