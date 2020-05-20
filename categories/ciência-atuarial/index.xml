@@ -3,28 +3,40 @@
         <title>Ciência Atuarial - Categoria - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</title>
         <link>http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/</link>
         <description>Ciência Atuarial - Categoria - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/" rel="self" type="application/rss+xml" /><item>
-    <title></title>
-    <link>http://projetoatuaria.github.io/base/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/" rel="self" type="application/rss+xml" /><item>
+    <title>Softwares mais utilizados</title>
+    <link>http://projetoatuaria.github.io/6_softwares/</link>
+    <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/base/</guid>
+    <guid>http://projetoatuaria.github.io/6_softwares/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/" referrerpolicy="no-referrer">
-            </div>  Figura 5 - Ramos de Atuação da Atuária    ]]></description>
+                <img src="/img/6_Softwares/img6.png" referrerpolicy="no-referrer">
+            </div>Softwares O atuário no desenvolvimento de suas atividades necessita de fazer uso de uma diversidades de softwares e programas (alguns com linguagem de programação) que facilitam na implementação das fórmulas e cálculos atuariais, sendo alguns desses:
+ Excel   Figura 1 - Excel   O uso do Excel nas empresas é uma realidade do mercado e, mesmo com o surgimento de novos programas a cada dia, o software da Microsoft parece não perder espaço.]]></description>
 </item><item>
-    <title>O que é a Ciência Atuarial ?</title>
-    <link>http://projetoatuaria.github.io/1_cienciaatuarial/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <title>Teórico para o prático</title>
+    <link>http://projetoatuaria.github.io/5_teoricopratico/</link>
+    <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/1_cienciaatuarial/</guid>
+    <guid>http://projetoatuaria.github.io/5_teoricopratico/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/1_CienciaAtuarial/img6.jpg" referrerpolicy="no-referrer">
-            </div>Introdução O que é Ciência Atuarial? A ciência atuarial tem seu início nas primeiras civilizações, nesse período possuíam alguns riscos, como o dos comerciantes da babilônia que se preocupavam com as perdas dos camelos e os pastores hebreus que tinham receio com perda do seu rebanho. Tais riscos precisavam ser mensurados e organizados, para contê-los e não causar as perdas, que naquele período eram perdas relevantes para sobrevivência deles. O pontapé inicial ao surgimento e a utilização dessa ciência, foi nas primícias da teoria do seguro marítimo.]]></description>
+                <img src="/img/5_TeoricoPratico/img1.jpg" referrerpolicy="no-referrer">
+            </div>Teórico para o prático Os cálculos atuariais são baseados em certas premissas a respeito do futuro. As premissas ou hipóteses atuariais correspondem a um conjunto de estimativas que se espera realizar em um determinado período e com razoável nível de segurança. Por se tratar de um evento futuro e incerto, é passível de variações e ajustes ao longo do tempo. As premissas são as bases do cálculo atuarial e sua variabilidade está diretamente relacionada à solvência dos planos (seguro, previdência, plano de saúde).]]></description>
+</item><item>
+    <title>Mercado de Trabalho</title>
+    <link>http://projetoatuaria.github.io/4_mercado/</link>
+    <pubDate>Tue, 19 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/4_mercado/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/4_Mercado/img10.png" referrerpolicy="no-referrer">
+            </div>Mercado de Trabalho A demanda por Atuários é crescente ao longo do tempo. Por ser um profissional multidisciplinar o Atuário pode trabalhar em bancos, seguradoras, fundos de pensão, planos de saúde, previdência pública e privada, auditorias, consultorias, corretoras, órgãos públicos, no mercado financeiro, entre outras.
+De acordo com o site InfoMoney, a atuária está entre as 10 profissões com as maiores remunerações nos Estados Unidos.
+   Figura 1 - Maiores remunerações, InfoMoney   1.]]></description>
 </item><item>
     <title>Ramo Não Vida</title>
     <link>http://projetoatuaria.github.io/3_ramonaovida/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <pubDate>Mon, 18 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
     <guid>http://projetoatuaria.github.io/3_ramonaovida/</guid>
     <description><![CDATA[<div class="featured-image">
@@ -33,7 +45,7 @@
 </item><item>
     <title>Ramo Vida</title>
     <link>http://projetoatuaria.github.io/2_ramovida/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <pubDate>Sun, 17 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
     <guid>http://projetoatuaria.github.io/2_ramovida/</guid>
     <description><![CDATA[<div class="featured-image">
@@ -109,11 +121,22 @@
 </div>
 ]]></description>
 </item><item>
-    <title>Teórico para o prático</title>
-    <link>http://projetoatuaria.github.io/5_teoricopratico/</link>
+    <title>O que é a Ciência Atuarial ?</title>
+    <link>http://projetoatuaria.github.io/1_cienciaatuarial/</link>
+    <pubDate>Sat, 16 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/1_cienciaatuarial/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/1_CienciaAtuarial/img6.jpg" referrerpolicy="no-referrer">
+            </div>Introdução O que é Ciência Atuarial? A ciência atuarial tem seu início nas primeiras civilizações, nesse período possuíam alguns riscos, como o dos comerciantes da babilônia que se preocupavam com as perdas dos camelos e os pastores hebreus que tinham receio com perda do seu rebanho. Tais riscos precisavam ser mensurados e organizados, para contê-los e não causar as perdas, que naquele período eram perdas relevantes para sobrevivência deles. O pontapé inicial ao surgimento e a utilização dessa ciência, foi nas primícias da teoria do seguro marítimo.]]></description>
+</item><item>
+    <title></title>
+    <link>http://projetoatuaria.github.io/base/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/5_teoricopratico/</guid>
-    <description><![CDATA[Teórico para o prático Os cálculos atuariais são baseados em certas premissas a respeito do futuro. As premissas ou hipóteses atuariais correspondem a um conjunto de estimativas que se espera realizar em um determinado período e com razoável nível de segurança. Por se tratar de um evento futuro e incerto, é passível de variações e ajustes ao longo do tempo. As premissas são as bases do cálculo atuarial e sua variabilidade está diretamente relacionada à solvência dos planos (seguro, previdência, plano de saúde).]]></description>
+    <guid>http://projetoatuaria.github.io/base/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/" referrerpolicy="no-referrer">
+            </div>  Figura 5 - Ramos de Atuação da Atuária    ]]></description>
 </item></channel>
 </rss>
