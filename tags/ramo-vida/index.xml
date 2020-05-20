@@ -1,36 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Ciência Atuarial - Categoria - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</title>
-        <link>http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/</link>
-        <description>Ciência Atuarial - Categoria - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/" rel="self" type="application/rss+xml" /><item>
-    <title></title>
-    <link>http://projetoatuaria.github.io/base/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/base/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/" referrerpolicy="no-referrer">
-            </div>  Figura 5 - Ramos de Atuação da Atuária    ]]></description>
-</item><item>
-    <title>O que é a Ciência Atuarial ?</title>
-    <link>http://projetoatuaria.github.io/1_cienciaatuarial/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/1_cienciaatuarial/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/1_CienciaAtuarial/img6.jpg" referrerpolicy="no-referrer">
-            </div>Introdução O que é Ciência Atuarial? A ciência atuarial tem seu início nas primeiras civilizações, nesse período possuíam alguns riscos, como o dos comerciantes da babilônia que se preocupavam com as perdas dos camelos e os pastores hebreus que tinham receio com perda do seu rebanho. Tais riscos precisavam ser mensurados e organizados, para contê-los e não causar as perdas, que naquele período eram perdas relevantes para sobrevivência deles. O pontapé inicial ao surgimento e a utilização dessa ciência, foi nas primícias da teoria do seguro marítimo.]]></description>
-</item><item>
-    <title>Ramo Não Vida</title>
-    <link>http://projetoatuaria.github.io/3_ramonaovida/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/3_ramonaovida/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/3_RamoNaoVida/img1.png" referrerpolicy="no-referrer">
-            </div>Ramo Não Vida Quando se trata do ramo não vida precisamos de duas definições básicas para facilitar o entendimento, sendo elas as definições de provisões e sinistros. Provisões é definida como uma reserva de valor para atender a despesas que se esperam. A provisão visa a cobertura de um gasto já considerado certo ou de grande possibilidade de ocorrência. O sinistro é um termo utilizado para definir, a ocorrência de um evento incerto, causador de perda econômica definido contratualmente, que obriga a entidade a indenizar.]]></description>
-</item><item>
+        <title>Ramo Vida - Tag - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</title>
+        <link>http://projetoatuaria.github.io/tags/ramo-vida/</link>
+        <description>Ramo Vida - Tag - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://projetoatuaria.github.io/tags/ramo-vida/" rel="self" type="application/rss+xml" /><item>
     <title>Ramo Vida</title>
     <link>http://projetoatuaria.github.io/2_ramovida/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
@@ -108,12 +81,5 @@
 <p>RODRIGUES, José Ângelo. Gestão de Risco Atuarial. 1ª Ed. Editora Saraiva, São Paulo, 2008.</p>
 </div>
 ]]></description>
-</item><item>
-    <title>Teórico para o prático</title>
-    <link>http://projetoatuaria.github.io/5_teoricopratico/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/5_teoricopratico/</guid>
-    <description><![CDATA[Teórico para o prático Os cálculos atuariais são baseados em certas premissas a respeito do futuro. As premissas ou hipóteses atuariais correspondem a um conjunto de estimativas que se espera realizar em um determinado período e com razoável nível de segurança. Por se tratar de um evento futuro e incerto, é passível de variações e ajustes ao longo do tempo. As premissas são as bases do cálculo atuarial e sua variabilidade está diretamente relacionada à solvência dos planos (seguro, previdência, plano de saúde).]]></description>
 </item></channel>
 </rss>
