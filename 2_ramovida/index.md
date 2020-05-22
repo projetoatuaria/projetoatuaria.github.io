@@ -12,7 +12,7 @@
 Segundo Rodrigues (2008), os estudos de atuária acerca do ramo vida trata de aspectos no longo prazo, ou seja, é onde são analisadas as questões de aposentadoria, pensões, seguros de vida e de saúde. Tudo isso é visto através da ótica da matemática atuarial (que atua fornecendo meios de apuração de prêmios de seguros ligados à vida e custos previdenciais) e, as tábuas de mortalidade servirão como base para esses cálculos, dando a esperança de vida para uma determinada idade inteira, dentro do intervalo [0,ꞷ] - primeira e última idade da tábua. Através disto, é dada a função de sobrevivência, e a partir dela, poderão ser realizadas as inferências atuariais.
 </div>
 
-### 1.Aposentadoria: 
+## 1.Aposentadoria: 
 
 <div style="text-align: justify">
 
@@ -21,11 +21,11 @@ O atuário será o profissional responsável por calcular o equilíbrio atuarial
 {{< figure src="/img/2_RamoVida/img2.png" title="Figura 1 - Aposentadoria" >}}
 </div>
 
-## Quais são os ramos da previdência?
+### Quais são os ramos da previdência?
 
 {{< figure src="/img/2_RamoVida/img3.png" title="Figura 2 - Ramos da previdência" >}}
 
-## Tipos de planos: 
+### Tipos de planos: 
 
 {{< figure src="/img/2_RamoVida/img4.png" title="Figura 3 - Tipos de planos" >}}
 
@@ -33,7 +33,7 @@ O atuário será o profissional responsável por calcular o equilíbrio atuarial
 
 
 
-### 2. Pensões:
+## 2. Pensões:
 
 <div style="text-align: justify">
 
@@ -43,14 +43,14 @@ O atuário será o profissional responsável por calcular o equilíbrio atuarial
 {{< figure src="/img/2_RamoVida/img6.png" title="Figura 5 - Pensões" >}}
 </div>
 
-### 3. Seguros de Vida: 
+## 3. Seguros de Vida: 
 
 Neste caso, o segurado realizará o pagamento do prêmio (segundo a Susep, prêmio é o valor que o segurado paga à seguradora pelo seguro, para transferir a ela o risco previsto nas Condições Contratuais), para que o beneficiário estipulado em contrato, receba o benefício no caso de sua morte.
 
 {{< figure src="/img/2_RamoVida/img7.png" title="Figura 6 - Seguros de vida" >}}
 
 
-### 4. Seguro Saúde:
+## 4. Seguro Saúde:
 
 <div style="text-align: justify">
 

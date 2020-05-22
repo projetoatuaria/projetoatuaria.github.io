@@ -2,44 +2,47 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://projetoatuaria.github.io/cienciaisatuariais/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/programacao/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/mercadodetrabalho/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/participantes/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/game/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/blog/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/categories/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/tags/ci%C3%AAncia-atuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/excel/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/matem%C3%A1tica-atuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/categories/matem%C3%A1tica-atuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/posts/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/programa%C3%A7%C3%A3o/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/categories/programa%C3%A7%C3%A3o/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/python/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/r/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/reserva-matem%C3%A1tica-e-pr%C3%AAmios/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/6_softwares/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/5_teoricopratico/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/vba/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/menu_catuarial/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/menu_concursosvagas/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/menu_participantes/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/menu_programacao/</loc><lastmod>2020-05-19T15:11:18-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/concursos/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/categories/mercado/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/4_mercado/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/1_cienciaatuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/posts/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/tags/profissional/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/requisitos/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/vagas/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/cosseguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/3_ramonaovida/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/resseguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/seguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/categories/seguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/r/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/risco/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/tags/pens%C3%A3o/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/tags/previd%C3%AAncia/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/tags/ramo-vida/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/2_ramovida/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/seguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/categories/seguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/tags/seguro-de-vida/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/tags/seguro-sa%C3%BAde/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/1_cienciaatuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://projetoatuaria.github.io/tags/risco/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/concursos/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/categories/mercado/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/4_mercado/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/requisitos/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/vagas/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/cosseguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/matem%C3%A1tica-atuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/categories/matem%C3%A1tica-atuarial/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/3_ramonaovida/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/reserva-matem%C3%A1tica-e-pr%C3%AAmios/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/resseguro/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/5_teoricopratico/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/excel/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/programa%C3%A7%C3%A3o/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/categories/programa%C3%A7%C3%A3o/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/python/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/6_softwares/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/tags/vba/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://projetoatuaria.github.io/7_vagas/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://projetoatuaria.github.io/base/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

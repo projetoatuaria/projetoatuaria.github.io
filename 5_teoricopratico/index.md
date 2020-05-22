@@ -1,8 +1,8 @@
-# Teórico para o prático
+# Teória para prática
 
 
 
-## Teórico para o prático
+## Teória para o prática
 
 <div style="text-align: justify"> 
 

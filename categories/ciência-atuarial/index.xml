@@ -3,25 +3,93 @@
         <title>Ciência Atuarial - Categoria - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</title>
         <link>http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/</link>
         <description>Ciência Atuarial - Categoria - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/" rel="self" type="application/rss+xml" /><item>
-    <title>Softwares mais utilizados</title>
-    <link>http://projetoatuaria.github.io/6_softwares/</link>
-    <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 22 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://projetoatuaria.github.io/categories/ci%C3%AAncia-atuarial/" rel="self" type="application/rss+xml" /><item>
+    <title>O que é a Ciência Atuarial ?</title>
+    <link>http://projetoatuaria.github.io/1_cienciaatuarial/</link>
+    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/6_softwares/</guid>
+    <guid>http://projetoatuaria.github.io/1_cienciaatuarial/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/6_Softwares/img6.png" referrerpolicy="no-referrer">
-            </div>Softwares O atuário no desenvolvimento de suas atividades necessita de fazer uso de uma diversidades de softwares e programas (alguns com linguagem de programação) que facilitam na implementação das fórmulas e cálculos atuariais, sendo alguns desses:
- Excel   Figura 1 - Excel   O uso do Excel nas empresas é uma realidade do mercado e, mesmo com o surgimento de novos programas a cada dia, o software da Microsoft parece não perder espaço.]]></description>
+                <img src="/img/1_CienciaAtuarial/capa.png" referrerpolicy="no-referrer">
+            </div>Introdução O que é Ciência Atuarial? A ciência atuarial tem seu início nas primeiras civilizações, nesse período possuíam alguns riscos, como o dos comerciantes da babilônia que se preocupavam com as perdas dos camelos e os pastores hebreus que tinham receio com perda do seu rebanho. Tais riscos precisavam ser mensurados e organizados, para contê-los e não causar as perdas, que naquele período eram perdas relevantes para sobrevivência deles. O pontapé inicial ao surgimento e a utilização dessa ciência, foi nas primícias da teoria do seguro marítimo.]]></description>
 </item><item>
-    <title>Teórico para o prático</title>
-    <link>http://projetoatuaria.github.io/5_teoricopratico/</link>
-    <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
+    <title>Ramo Vida</title>
+    <link>http://projetoatuaria.github.io/2_ramovida/</link>
+    <pubDate>Thu, 21 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/5_teoricopratico/</guid>
+    <guid>http://projetoatuaria.github.io/2_ramovida/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/5_TeoricoPratico/img1.jpg" referrerpolicy="no-referrer">
-            </div>Teórico para o prático Os cálculos atuariais são baseados em certas premissas a respeito do futuro. As premissas ou hipóteses atuariais correspondem a um conjunto de estimativas que se espera realizar em um determinado período e com razoável nível de segurança. Por se tratar de um evento futuro e incerto, é passível de variações e ajustes ao longo do tempo. As premissas são as bases do cálculo atuarial e sua variabilidade está diretamente relacionada à solvência dos planos (seguro, previdência, plano de saúde).]]></description>
+                <img src="/img/2_RamoVida/img6.png" referrerpolicy="no-referrer">
+            </div><h2 id="ramo-vida">Ramo Vida</h2>
+<div style="text-align: justify">
+<p>Segundo Rodrigues (2008), os estudos de atuária acerca do ramo vida trata de aspectos no longo prazo, ou seja, é onde são analisadas as questões de aposentadoria, pensões, seguros de vida e de saúde. Tudo isso é visto através da ótica da matemática atuarial (que atua fornecendo meios de apuração de prêmios de seguros ligados à vida e custos previdenciais) e, as tábuas de mortalidade servirão como base para esses cálculos, dando a esperança de vida para uma determinada idade inteira, dentro do intervalo [0,ꞷ] - primeira e última idade da tábua. Através disto, é dada a função de sobrevivência, e a partir dela, poderão ser realizadas as inferências atuariais.</p>
+</div>
+<h2 id="1aposentadoria">1.Aposentadoria:</h2>
+<div style="text-align: justify">
+<p>O atuário será o profissional responsável por calcular o equilíbrio atuarial de determinado plano de previdência, determinando os valores de contribuição, objetivando a solvência da instituição. Levando sempre em consideração a expectativa de vida dos indivíduos, bem como o risco biométrico e econômico. Nos planos de previdência complementar, por exemplo, o indivíduo forma sua própria reserva, então, cabe ao atuário realizar os cálculos para que seja atingido o objetivo, levando em consideração os riscos existentes e o plano escolhido pelo participante (BD, CD ou CV).</p>
+<figure>
+     <figcaption>
+            <h4>Figura 1 - Aposentadoria</h4>
+        </figcaption>
+</figure>
+
+</div>
+<h3 id="quais-são-os-ramos-da-previdência">Quais são os ramos da previdência?</h3>
+<figure>
+     <figcaption>
+            <h4>Figura 2 - Ramos da previdência</h4>
+        </figcaption>
+</figure>
+
+<h3 id="tipos-de-planos">Tipos de planos:</h3>
+<figure>
+     <figcaption>
+            <h4>Figura 3 - Tipos de planos</h4>
+        </figcaption>
+</figure>
+
+<figure>
+     <figcaption>
+            <h4>Figura 4 - Aposentadoria</h4>
+        </figcaption>
+</figure>
+
+<h2 id="2-pensões">2. Pensões:</h2>
+<div style="text-align: justify">
+<p>É o valor devido aos beneficiários (dependentes do segurado, como por exemplo, filhos ou cônjuge) do segurado/participante, visto a impossibilidade do mesmo em recebe-lo. No ato da contratação do plano, são colhidas todas as informações necessárias para o cálculo da possível chance de haver pagamento de pensão, levando em conta, também, as probabilidades da tábua de mortalidade adotada.</p>
+<figure>
+     <figcaption>
+            <h4>Figura 5 - Pensões</h4>
+        </figcaption>
+</figure>
+
+</div>
+<h2 id="3-seguros-de-vida">3. Seguros de Vida:</h2>
+<p>Neste caso, o segurado realizará o pagamento do prêmio (segundo a Susep, prêmio é o valor que o segurado paga à seguradora pelo seguro, para transferir a ela o risco previsto nas Condições Contratuais), para que o beneficiário estipulado em contrato, receba o benefício no caso de sua morte.</p>
+<figure>
+     <figcaption>
+            <h4>Figura 6 - Seguros de vida</h4>
+        </figcaption>
+</figure>
+
+<h2 id="4-seguro-saúde">4. Seguro Saúde:</h2>
+<div style="text-align: justify">
+<p>É um contrato de seguro, onde ocorrerá reembolso ao usuário pelas suas despesas médicas (consultas, exames, cirurgias, etc.), sendo assim, o segurado fica livre para escolher as instituições que desejar, cabendo à seguradora reembolsar os gastos, sempre de acordo com os termos contratuais pré-estabelecidos.</p>
+<figure>
+     <figcaption>
+            <h4>Figura 7 - Seguro Saúde</h4>
+        </figcaption>
+</figure>
+
+</div>
+<h2 id="referências">Referências</h2>
+<div style="text-align: justify">
+<p>O que é Atuária? – FEA USP. Disponível em <a href="https://www.fea.usp.br/contabilidade-e-atuaria/graduacao/bacharelado-em-atuaria/o-que-e-atuaria">https://www.fea.usp.br/contabilidade-e-atuaria/graduacao/bacharelado-em-atuaria/o-que-e-atuaria</a> Acesso em 27/04.</p>
+<p>Anotações de Aula – Estágio Supervisionado I – Professor Herick Cidarta, Universidade Federal da Paraíba.</p>
+<p>Qual é a diferença entre seguro saúde e plano de saúde? – Disponível em <a href="https://www.mag.com.br/blog/educacao-financeira/artigo/diferenca-entre-seguro-saude-e-plano-de-saude">https://www.mag.com.br/blog/educacao-financeira/artigo/diferenca-entre-seguro-saude-e-plano-de-saude</a> Acesso em 28/04.</p>
+<p>RODRIGUES, José Ângelo. Gestão de Risco Atuarial. 1ª Ed. Editora Saraiva, São Paulo, 2008.</p>
+</div>
+]]></description>
 </item><item>
     <title>Mercado de Trabalho</title>
     <link>http://projetoatuaria.github.io/4_mercado/</link>
@@ -43,92 +111,34 @@ De acordo com o site InfoMoney, a atuária está entre as 10 profissões com as 
                 <img src="/img/3_RamoNaoVida/img1.png" referrerpolicy="no-referrer">
             </div>Ramo Não Vida Quando se trata do ramo não vida precisamos de duas definições básicas para facilitar o entendimento, sendo elas as definições de provisões e sinistros. Provisões é definida como uma reserva de valor para atender a despesas que se esperam. A provisão visa a cobertura de um gasto já considerado certo ou de grande possibilidade de ocorrência. O sinistro é um termo utilizado para definir, a ocorrência de um evento incerto, causador de perda econômica definido contratualmente, que obriga a entidade a indenizar.]]></description>
 </item><item>
-    <title>Ramo Vida</title>
-    <link>http://projetoatuaria.github.io/2_ramovida/</link>
+    <title>Teória para prática</title>
+    <link>http://projetoatuaria.github.io/5_teoricopratico/</link>
+    <pubDate>Mon, 18 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/5_teoricopratico/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/5_TeoricoPratico/img1.jpg" referrerpolicy="no-referrer">
+            </div>Teória para o prática Os cálculos atuariais são baseados em certas premissas a respeito do futuro. As premissas ou hipóteses atuariais correspondem a um conjunto de estimativas que se espera realizar em um determinado período e com razoável nível de segurança. Por se tratar de um evento futuro e incerto, é passível de variações e ajustes ao longo do tempo. As premissas são as bases do cálculo atuarial e sua variabilidade está diretamente relacionada à solvência dos planos (seguro, previdência, plano de saúde).]]></description>
+</item><item>
+    <title>Softwares mais utilizados</title>
+    <link>http://projetoatuaria.github.io/6_softwares/</link>
     <pubDate>Sun, 17 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/2_ramovida/</guid>
+    <guid>http://projetoatuaria.github.io/6_softwares/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/2_RamoVida/img6.png" referrerpolicy="no-referrer">
-            </div><h2 id="ramo-vida">Ramo Vida</h2>
-<div style="text-align: justify">
-<p>Segundo Rodrigues (2008), os estudos de atuária acerca do ramo vida trata de aspectos no longo prazo, ou seja, é onde são analisadas as questões de aposentadoria, pensões, seguros de vida e de saúde. Tudo isso é visto através da ótica da matemática atuarial (que atua fornecendo meios de apuração de prêmios de seguros ligados à vida e custos previdenciais) e, as tábuas de mortalidade servirão como base para esses cálculos, dando a esperança de vida para uma determinada idade inteira, dentro do intervalo [0,ꞷ] - primeira e última idade da tábua. Através disto, é dada a função de sobrevivência, e a partir dela, poderão ser realizadas as inferências atuariais.</p>
-</div>
-<h3 id="1aposentadoria">1.Aposentadoria:</h3>
-<div style="text-align: justify">
-<p>O atuário será o profissional responsável por calcular o equilíbrio atuarial de determinado plano de previdência, determinando os valores de contribuição, objetivando a solvência da instituição. Levando sempre em consideração a expectativa de vida dos indivíduos, bem como o risco biométrico e econômico. Nos planos de previdência complementar, por exemplo, o indivíduo forma sua própria reserva, então, cabe ao atuário realizar os cálculos para que seja atingido o objetivo, levando em consideração os riscos existentes e o plano escolhido pelo participante (BD, CD ou CV).</p>
-<figure>
-     <figcaption>
-            <h4>Figura 1 - Aposentadoria</h4>
-        </figcaption>
-</figure>
-
-</div>
-<h2 id="quais-são-os-ramos-da-previdência">Quais são os ramos da previdência?</h2>
-<figure>
-     <figcaption>
-            <h4>Figura 2 - Ramos da previdência</h4>
-        </figcaption>
-</figure>
-
-<h2 id="tipos-de-planos">Tipos de planos:</h2>
-<figure>
-     <figcaption>
-            <h4>Figura 3 - Tipos de planos</h4>
-        </figcaption>
-</figure>
-
-<figure>
-     <figcaption>
-            <h4>Figura 4 - Aposentadoria</h4>
-        </figcaption>
-</figure>
-
-<h3 id="2-pensões">2. Pensões:</h3>
-<div style="text-align: justify">
-<p>É o valor devido aos beneficiários (dependentes do segurado, como por exemplo, filhos ou cônjuge) do segurado/participante, visto a impossibilidade do mesmo em recebe-lo. No ato da contratação do plano, são colhidas todas as informações necessárias para o cálculo da possível chance de haver pagamento de pensão, levando em conta, também, as probabilidades da tábua de mortalidade adotada.</p>
-<figure>
-     <figcaption>
-            <h4>Figura 5 - Pensões</h4>
-        </figcaption>
-</figure>
-
-</div>
-<h3 id="3-seguros-de-vida">3. Seguros de Vida:</h3>
-<p>Neste caso, o segurado realizará o pagamento do prêmio (segundo a Susep, prêmio é o valor que o segurado paga à seguradora pelo seguro, para transferir a ela o risco previsto nas Condições Contratuais), para que o beneficiário estipulado em contrato, receba o benefício no caso de sua morte.</p>
-<figure>
-     <figcaption>
-            <h4>Figura 6 - Seguros de vida</h4>
-        </figcaption>
-</figure>
-
-<h3 id="4-seguro-saúde">4. Seguro Saúde:</h3>
-<div style="text-align: justify">
-<p>É um contrato de seguro, onde ocorrerá reembolso ao usuário pelas suas despesas médicas (consultas, exames, cirurgias, etc.), sendo assim, o segurado fica livre para escolher as instituições que desejar, cabendo à seguradora reembolsar os gastos, sempre de acordo com os termos contratuais pré-estabelecidos.</p>
-<figure>
-     <figcaption>
-            <h4>Figura 7 - Seguro Saúde</h4>
-        </figcaption>
-</figure>
-
-</div>
-<h2 id="referências">Referências</h2>
-<div style="text-align: justify">
-<p>O que é Atuária? – FEA USP. Disponível em <a href="https://www.fea.usp.br/contabilidade-e-atuaria/graduacao/bacharelado-em-atuaria/o-que-e-atuaria">https://www.fea.usp.br/contabilidade-e-atuaria/graduacao/bacharelado-em-atuaria/o-que-e-atuaria</a> Acesso em 27/04.</p>
-<p>Anotações de Aula – Estágio Supervisionado I – Professor Herick Cidarta, Universidade Federal da Paraíba.</p>
-<p>Qual é a diferença entre seguro saúde e plano de saúde? – Disponível em <a href="https://www.mag.com.br/blog/educacao-financeira/artigo/diferenca-entre-seguro-saude-e-plano-de-saude">https://www.mag.com.br/blog/educacao-financeira/artigo/diferenca-entre-seguro-saude-e-plano-de-saude</a> Acesso em 28/04.</p>
-<p>RODRIGUES, José Ângelo. Gestão de Risco Atuarial. 1ª Ed. Editora Saraiva, São Paulo, 2008.</p>
-</div>
-]]></description>
+                <img src="/img/6_Softwares/img6.png" referrerpolicy="no-referrer">
+            </div>Softwares O atuário no desenvolvimento de suas atividades necessita de fazer uso de uma diversidades de softwares e programas (alguns com linguagem de programação) que facilitam na implementação das fórmulas e cálculos atuariais, sendo alguns desses:
+ Excel   Figura 1 - Excel   O uso do Excel nas empresas é uma realidade do mercado e, mesmo com o surgimento de novos programas a cada dia, o software da Microsoft parece não perder espaço.]]></description>
 </item><item>
-    <title>O que é a Ciência Atuarial ?</title>
-    <link>http://projetoatuaria.github.io/1_cienciaatuarial/</link>
+    <title>Concursos e Seleções</title>
+    <link>http://projetoatuaria.github.io/7_vagas/</link>
     <pubDate>Sat, 16 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/1_cienciaatuarial/</guid>
+    <guid>http://projetoatuaria.github.io/7_vagas/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/1_CienciaAtuarial/capa.png" referrerpolicy="no-referrer">
-            </div>Introdução O que é Ciência Atuarial? A ciência atuarial tem seu início nas primeiras civilizações, nesse período possuíam alguns riscos, como o dos comerciantes da babilônia que se preocupavam com as perdas dos camelos e os pastores hebreus que tinham receio com perda do seu rebanho. Tais riscos precisavam ser mensurados e organizados, para contê-los e não causar as perdas, que naquele período eram perdas relevantes para sobrevivência deles. O pontapé inicial ao surgimento e a utilização dessa ciência, foi nas primícias da teoria do seguro marítimo.]]></description>
+                <img src="/img/7_vagas/img1.png" referrerpolicy="no-referrer">
+            </div>Concursos previstos para 2020 A tabela abaixo apresenta alguns concursos para ciências atuariais que ainda serão realizados.
+   Figura 9 - Concursos Previstos, Editais analisados    CR – Cadastro de reserva  ]]></description>
 </item><item>
     <title></title>
     <link>http://projetoatuaria.github.io/base/</link>

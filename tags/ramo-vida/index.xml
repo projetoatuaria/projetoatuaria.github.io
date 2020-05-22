@@ -3,10 +3,10 @@
         <title>Ramo Vida - Tag - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</title>
         <link>http://projetoatuaria.github.io/tags/ramo-vida/</link>
         <description>Ramo Vida - Tag - Disseminação e Popularização da Ciência Atuarial - Projeto Atuaria</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://projetoatuaria.github.io/tags/ramo-vida/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://projetoatuaria.github.io/tags/ramo-vida/" rel="self" type="application/rss+xml" /><item>
     <title>Ramo Vida</title>
     <link>http://projetoatuaria.github.io/2_ramovida/</link>
-    <pubDate>Sun, 17 May 2020 00:00:00 &#43;0000</pubDate>
+    <pubDate>Thu, 21 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Autor</author>
     <guid>http://projetoatuaria.github.io/2_ramovida/</guid>
     <description><![CDATA[<div class="featured-image">
@@ -15,7 +15,7 @@
 <div style="text-align: justify">
 <p>Segundo Rodrigues (2008), os estudos de atuária acerca do ramo vida trata de aspectos no longo prazo, ou seja, é onde são analisadas as questões de aposentadoria, pensões, seguros de vida e de saúde. Tudo isso é visto através da ótica da matemática atuarial (que atua fornecendo meios de apuração de prêmios de seguros ligados à vida e custos previdenciais) e, as tábuas de mortalidade servirão como base para esses cálculos, dando a esperança de vida para uma determinada idade inteira, dentro do intervalo [0,ꞷ] - primeira e última idade da tábua. Através disto, é dada a função de sobrevivência, e a partir dela, poderão ser realizadas as inferências atuariais.</p>
 </div>
-<h3 id="1aposentadoria">1.Aposentadoria:</h3>
+<h2 id="1aposentadoria">1.Aposentadoria:</h2>
 <div style="text-align: justify">
 <p>O atuário será o profissional responsável por calcular o equilíbrio atuarial de determinado plano de previdência, determinando os valores de contribuição, objetivando a solvência da instituição. Levando sempre em consideração a expectativa de vida dos indivíduos, bem como o risco biométrico e econômico. Nos planos de previdência complementar, por exemplo, o indivíduo forma sua própria reserva, então, cabe ao atuário realizar os cálculos para que seja atingido o objetivo, levando em consideração os riscos existentes e o plano escolhido pelo participante (BD, CD ou CV).</p>
 <figure>
@@ -25,14 +25,14 @@
 </figure>
 
 </div>
-<h2 id="quais-são-os-ramos-da-previdência">Quais são os ramos da previdência?</h2>
+<h3 id="quais-são-os-ramos-da-previdência">Quais são os ramos da previdência?</h3>
 <figure>
      <figcaption>
             <h4>Figura 2 - Ramos da previdência</h4>
         </figcaption>
 </figure>
 
-<h2 id="tipos-de-planos">Tipos de planos:</h2>
+<h3 id="tipos-de-planos">Tipos de planos:</h3>
 <figure>
      <figcaption>
             <h4>Figura 3 - Tipos de planos</h4>
@@ -45,7 +45,7 @@
         </figcaption>
 </figure>
 
-<h3 id="2-pensões">2. Pensões:</h3>
+<h2 id="2-pensões">2. Pensões:</h2>
 <div style="text-align: justify">
 <p>É o valor devido aos beneficiários (dependentes do segurado, como por exemplo, filhos ou cônjuge) do segurado/participante, visto a impossibilidade do mesmo em recebe-lo. No ato da contratação do plano, são colhidas todas as informações necessárias para o cálculo da possível chance de haver pagamento de pensão, levando em conta, também, as probabilidades da tábua de mortalidade adotada.</p>
 <figure>
@@ -55,7 +55,7 @@
 </figure>
 
 </div>
-<h3 id="3-seguros-de-vida">3. Seguros de Vida:</h3>
+<h2 id="3-seguros-de-vida">3. Seguros de Vida:</h2>
 <p>Neste caso, o segurado realizará o pagamento do prêmio (segundo a Susep, prêmio é o valor que o segurado paga à seguradora pelo seguro, para transferir a ela o risco previsto nas Condições Contratuais), para que o beneficiário estipulado em contrato, receba o benefício no caso de sua morte.</p>
 <figure>
      <figcaption>
@@ -63,7 +63,7 @@
         </figcaption>
 </figure>
 
-<h3 id="4-seguro-saúde">4. Seguro Saúde:</h3>
+<h2 id="4-seguro-saúde">4. Seguro Saúde:</h2>
 <div style="text-align: justify">
 <p>É um contrato de seguro, onde ocorrerá reembolso ao usuário pelas suas despesas médicas (consultas, exames, cirurgias, etc.), sendo assim, o segurado fica livre para escolher as instituições que desejar, cabendo à seguradora reembolsar os gastos, sempre de acordo com os termos contratuais pré-estabelecidos.</p>
 <figure>
