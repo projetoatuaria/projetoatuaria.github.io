@@ -1,15 +1,13 @@
 # Ramo Vida
 
 
-
-
-
-
 ## Ramo Vida
 
 <div style="text-align: justify">
 
 Segundo Rodrigues (2008), os estudos de atuária acerca do ramo vida trata de aspectos no longo prazo, ou seja, é onde são analisadas as questões de aposentadoria, pensões, seguros de vida e de saúde. Tudo isso é visto através da ótica da matemática atuarial (que atua fornecendo meios de apuração de prêmios de seguros ligados à vida e custos previdenciais) e, as tábuas de mortalidade servirão como base para esses cálculos, dando a esperança de vida para uma determinada idade inteira, dentro do intervalo [0,ꞷ] - primeira e última idade da tábua. Através disto, é dada a função de sobrevivência, e a partir dela, poderão ser realizadas as inferências atuariais.
+
+
 </div>
 
 ## 1.Aposentadoria: 

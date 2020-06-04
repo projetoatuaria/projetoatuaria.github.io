@@ -7,6 +7,7 @@
 
 O atuário no desenvolvimento de suas atividades necessita de fazer uso de uma diversidades de softwares e programas (alguns com linguagem de programação) que facilitam na implementação das fórmulas e cálculos atuariais, sendo alguns desses:
 
+
 </div>
 
 ## Excel 

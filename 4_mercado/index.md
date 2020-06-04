@@ -1,11 +1,14 @@
 # Mercado de Trabalho
 
 
+
 ## Mercado de Trabalho
 
 <div style="text-align: justify"> 
 
 A demanda por Atuários é crescente ao longo do tempo. Por ser um profissional multidisciplinar o Atuário pode trabalhar em bancos, seguradoras, fundos de pensão, planos de saúde, previdência pública e privada, auditorias, consultorias, corretoras, órgãos públicos, no mercado financeiro, entre outras.
+
+
 
 De acordo com o site InfoMoney, a **atuária está entre as 10 profissões com as maiores remunerações** nos Estados Unidos.
 

@@ -9,6 +9,17 @@
 
 A ciência atuarial tem seu início nas primeiras civilizações, nesse período possuíam alguns riscos, como o dos comerciantes da babilônia que se preocupavam com as perdas dos camelos e os pastores hebreus que tinham receio com perda do seu rebanho. Tais riscos precisavam ser mensurados e organizados, para contê-los e não causar as perdas, que naquele período eram perdas relevantes para sobrevivência deles. O pontapé inicial ao surgimento e a utilização dessa ciência, foi nas primícias da teoria do seguro marítimo. As grandes navegações da antiguidade tinham os gregos e os fenícios como destaque, nesse momento o risco era de que os navegadores não voltassem com a carga, dessa forma resolveram criar um fundo de recurso com todos que navegavam. Esse fundo era criado para caso, qualquer prejuízo com a carga de um navio, todos os navegantes assumiram a despesa, em conjunto, para restituir aquele que perdeu tudo. Apesar de existir há bastante tempo, de modo contextualizado, não se sabia ao certo o que era, como era estudada, só se percebia com a importância da análise de risco e a forma para contê-la. Desde então, a atuária vem tomando forças e sendo estudada, pois, é uma ciência que estar sempre em descoberta, na busca de solucionar questões que surgem de acordo com as mudanças constantes na sociedade.
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167286093-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167286093-1');
+</script>
+
 Segundo um estudo feito por Allaben et al. 2008 junto de. CHAVES, 2010 a Ciência Atuarial tem sua natureza no estudo das consequências que terão certos eventos que envolvam riscos e incertezas. A aplicação atuarial verifica, examina e ajuda no gerenciamento dos resultados, na qual integra as despesas e benefícios dos eventos. A execução atuarial tem sua preocupação referente a situação econômica, visto que a essa variável os fenômenos adjacentes estão sujeitos a incertezas. Para ter total conhecimento e conseguir aplicar a atuária são necessários fundamentos prévios em várias áreas, as quais serão abordadas no decorrer do texto.
 
 </div>

@@ -8,6 +8,7 @@
 
 Os **cálculos atuariais** são baseados em certas premissas a respeito do futuro. As premissas ou hipóteses atuariais correspondem a um conjunto de estimativas que se espera realizar em um determinado período e com razoável nível de segurança. Por se tratar de um evento futuro e incerto, é passível de variações e ajustes ao longo do tempo. As premissas são as bases do cálculo atuarial e sua variabilidade está diretamente relacionada à solvência dos planos (seguro, previdência, plano de saúde).
 
+
 </div>
 
 ## 1.	Matemática atuarial
