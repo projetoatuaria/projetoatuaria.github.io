@@ -1,4 +1,4 @@
-# A Ciência Atuarial
+# Ciência Atuarial
 
 
 <!---Post 1--->
