@@ -1,7 +1,0 @@
-# Ciências Atuariais
-
-
-Em construção =)
-
-
-

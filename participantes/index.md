@@ -1,4 +1,0 @@
-# Participantes
-
-Em construção =)
-
