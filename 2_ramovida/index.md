@@ -48,15 +48,6 @@ Neste caso, o segurado realizará o pagamento do prêmio (segundo a Susep, prêm
 {{< figure src="/img/2_RamoVida/img7.png" title="Figura 6 - Seguros de vida" >}}
 
 
-## 4. Seguro Saúde:
-
-<div style="text-align: justify">
-
-É um contrato de seguro, onde ocorrerá reembolso ao usuário pelas suas despesas médicas (consultas, exames, cirurgias, etc.), sendo assim, o segurado fica livre para escolher as instituições que desejar, cabendo à seguradora reembolsar os gastos, sempre de acordo com os termos contratuais pré-estabelecidos. 
-
-{{< figure src="/img/2_RamoVida/img7.png" title="Figura 7 - Seguro Saúde" >}}
-</div>
-
 ## Referências
 
 <div style="text-align: justify">

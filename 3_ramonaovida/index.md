@@ -44,9 +44,15 @@ Seguro de proteção jurídica geralmente vem incluso dentro de um contrato pré
 É um complemento que pode ser utilizado dentro de outros seguros, como por exemplo no seguro de automóveis.  
 </div>
 
-### 7.	Seguro de doença;
-<div style="text-align: justify"> 
-Este seguro garante o pagamento do capital segurado contratado ao próprio segurado em decorrência de diagnóstico de uma das doenças previstas nas condições gerais e contratuais, desde que este diagnóstico ocorra durante a vigência do seguro.
+
+### 7. Planos e Seguro Saúde Suplementar:
+
+<div style="text-align: justify">
+
+É um contrato de seguro, onde ocorrerá reembolso ao usuário pelas suas despesas médicas (consultas, exames, cirurgias, etc.), sendo assim, o segurado fica livre para escolher as instituições que desejar, cabendo à seguradora reembolsar os gastos, sempre de acordo com os termos contratuais pré-estabelecidos. 
+
+{{< figure src="/img/2_RamoVida/img7.png" title="Figura 7 - Seguro Saúde" >}}
+
 </div>
 
 ### 8.	Marítimo e Transportes;

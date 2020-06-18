@@ -1,4 +1,4 @@
-# Quiz
+# Games
 
 <!---Objetivo do quiz--->
 
