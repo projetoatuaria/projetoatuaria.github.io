@@ -21,17 +21,6 @@
   Resumo: O atuário no desenvolvimento de suas atividades necessita de fazer uso de uma diversidades de softwares e programas (alguns com linguagem de programação) que facilitam na implementação das fórmulas e cálculos atuariais, sendo alguns desses: Excel, VBA, R, Python&hellip; Continue lendo
     ]]></description>
 </item><item>
-    <title>Depoimentos</title>
-    <link>http://projetoatuaria.github.io/depoimentos/</link>
-    <pubDate>Sat, 23 May 2020 15:11:18 -0300</pubDate>
-    <author>Autor</author>
-    <guid>http://projetoatuaria.github.io/depoimentos/</guid>
-    <description><![CDATA[ Ricardo Wagner O Atuário, Áreas de atuação e Experiência profissional
-   Nazareno Uma explicação base do que oferece a graduação de Ciências Atuariais
-   Felipe Xavier A Ciências Atuariais, Risco e Áreas de Atuação
-   Nazareno Como é a atuação profissional do Atuário no ramo de planos de saúde
-  ]]></description>
-</item><item>
     <title>Mercado de Trabalho</title>
     <link>http://projetoatuaria.github.io/mercadodetrabalho/</link>
     <pubDate>Tue, 19 May 2020 15:11:18 -0300</pubDate>
@@ -48,6 +37,17 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/quiz/img1.png" referrerpolicy="no-referrer">
             </div>O teste vocacional de forma geral têm como função auxiliar a escolha do curso ou da profissão. Mas também pode servir como um processo de autoconhecimento, que vai além da escolha de uma faculdade. Como resultado, o teste vocacional surge como um meio de sanar suas dúvidas de uma forma correta e confiável sobre o seu nível de conhecimento em uma área, ele pode se tornar o seu mapa pessoal e profissional.]]></description>
+</item><item>
+    <title>Depoimentos</title>
+    <link>http://projetoatuaria.github.io/depoimentos/</link>
+    <pubDate>Sat, 23 May 2020 15:11:18 -0300</pubDate>
+    <author>Autor</author>
+    <guid>http://projetoatuaria.github.io/depoimentos/</guid>
+    <description><![CDATA[ Nazareno Uma explicação base do que oferece a graduação de Ciências Atuariais
+   Como é a atuação profissional do Atuário no ramo de planos de saúde
+   Ricardo Wagner O Atuário, Áreas de atuação e Experiência profissional
+   Felipe Xavier A Ciências Atuariais, Risco e Áreas de Atuação
+  ]]></description>
 </item><item>
     <title>Redes Sociais</title>
     <link>http://projetoatuaria.github.io/redes-sociais/</link>
