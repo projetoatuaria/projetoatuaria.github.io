@@ -24,7 +24,7 @@
 ---
 
 ## <a href="https://www.instagram.com/dpcatuarial/">Luana Myrrha</a>
-***O que é o atuário, experiência e breve explicação sobre previdência***
+***O que é o atuário, experiência profissional e breve explicação sobre previdência***
 
 {{< vimeo 457748082 >}}
 
